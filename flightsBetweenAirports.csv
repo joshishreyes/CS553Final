@@ -1,0 +1,772 @@
+Source,Target,weight
+Detroit Metro Wayne County,Miami International,2
+Salt Lake City International,John F. Kennedy International,5
+Portland International,Salt Lake City International,3
+Lambert-St. Louis International,Detroit Metro Wayne County,2
+Cincinnati/Northern Kentucky International,Los Angeles International,3
+Hartsfield-Jackson Atlanta International,Lambert-St. Louis International,2
+Hartsfield-Jackson Atlanta International,Salt Lake City International,1
+Hartsfield-Jackson Atlanta International,Austin - Bergstrom International,1
+Ronald Reagan Washington National,Hartsfield-Jackson Atlanta International,1
+Phoenix Sky Harbor International,Minneapolis-St Paul International,2
+Detroit Metro Wayne County,Dallas/Fort Worth International,2
+Detroit Metro Wayne County,Los Angeles International,2
+Hartsfield-Jackson Atlanta International,Jacksonville International,2
+LaGuardia,Hartsfield-Jackson Atlanta International,2
+Detroit Metro Wayne County,LaGuardia,1
+Hartsfield-Jackson Atlanta International,San Francisco International,2
+Orlando International,Hartsfield-Jackson Atlanta International,1
+Minneapolis-St Paul International,McCarran International,2
+Hartsfield-Jackson Atlanta International,Palm Beach International,1
+Memphis International,Hartsfield-Jackson Atlanta International,4
+LaGuardia,Fort Lauderdale-Hollywood International,2
+Hartsfield-Jackson Atlanta International,Los Angeles International,1
+Salt Lake City International,Seattle/Tacoma International,2
+Denver International,LaGuardia,1
+Salt Lake City International,Sacramento International,3
+Salt Lake City International,John Wayne Airport-Orange County,1
+Los Angeles International,Tampa International,3
+Hartsfield-Jackson Atlanta International,Cincinnati/Northern Kentucky International,2
+Hartsfield-Jackson Atlanta International,Kansas City International,1
+Charlotte Douglas International,Hartsfield-Jackson Atlanta International,1
+Detroit Metro Wayne County,Minneapolis-St Paul International,2
+Hartsfield-Jackson Atlanta International,Philadelphia International,2
+John F. Kennedy International,Hartsfield-Jackson Atlanta International,2
+McCarran International,Detroit Metro Wayne County,3
+Hartsfield-Jackson Atlanta International,San Antonio International,2
+Los Angeles International,Nashville International,3
+Minneapolis-St Paul International,Kansas City International,1
+Indianapolis International,Hartsfield-Jackson Atlanta International,2
+John F. Kennedy International,Los Angeles International,2
+Salt Lake City International,Minneapolis-St Paul International,1
+George Bush Intercontinental/Houston,Detroit Metro Wayne County,1
+Seattle/Tacoma International,Hartsfield-Jackson Atlanta International,1
+Tampa International,Hartsfield-Jackson Atlanta International,1
+Minneapolis-St Paul International,Southwest Florida International,2
+Chicago O'Hare International,Hartsfield-Jackson Atlanta International,2
+San Diego International,Salt Lake City International,1
+John F. Kennedy International,Logan International,1
+Philadelphia International,Salt Lake City International,2
+Orlando International,Cincinnati/Northern Kentucky International,1
+Minneapolis-St Paul International,Portland International,1
+Logan International,Hartsfield-Jackson Atlanta International,1
+Hartsfield-Jackson Atlanta International,Baltimore/Washington International Thurgood Marshall,3
+Hartsfield-Jackson Atlanta International,Norfolk International,2
+Detroit Metro Wayne County,Charlotte Douglas International,3
+Phoenix Sky Harbor International,Detroit Metro Wayne County,1
+Port Columbus International,Hartsfield-Jackson Atlanta International,2
+Detroit Metro Wayne County,Hartsfield-Jackson Atlanta International,5
+Seattle/Tacoma International,Minneapolis-St Paul International,2
+Hartsfield-Jackson Atlanta International,Denver International,1
+Hartsfield-Jackson Atlanta International,Louis Armstrong New Orleans International,2
+Hartsfield-Jackson Atlanta International,Albuquerque International Sunport,3
+Hartsfield-Jackson Atlanta International,Buffalo Niagara International,3
+Raleigh-Durham International,Detroit Metro Wayne County,2
+Hartsfield-Jackson Atlanta International,Tucson International,2
+Minneapolis-St Paul International,Hartsfield-Jackson Atlanta International,1
+Hartsfield-Jackson Atlanta International,Fort Lauderdale-Hollywood International,2
+Detroit Metro Wayne County,Orlando International,1
+Southwest Florida International,Hartsfield-Jackson Atlanta International,1
+Seattle/Tacoma International,Honolulu International,2
+Newark Liberty International,Detroit Metro Wayne County,1
+San Francisco International,John F. Kennedy International,4
+Salt Lake City International,Los Angeles International,3
+Hartsfield-Jackson Atlanta International,Newark Liberty International,1
+Minneapolis-St Paul International,Tampa International,2
+Detroit Metro Wayne County,Ronald Reagan Washington National,1
+Hartsfield-Jackson Atlanta International,George Bush Intercontinental/Houston,1
+Portland International,John F. Kennedy International,3
+Minneapolis-St Paul International,General Mitchell International,4
+Detroit Metro Wayne County,General Mitchell International,3
+Orlando International,Memphis International,3
+Louisville International-Standiford Field,Hartsfield-Jackson Atlanta International,1
+Hartsfield-Jackson Atlanta International,San Diego International,3
+Los Angeles International,Minneapolis-St Paul International,1
+Cincinnati/Northern Kentucky International,Salt Lake City International,1
+Orlando International,McCarran International,2
+Orlando International,LaGuardia,3
+Minneapolis-St Paul International,Norman Y. Mineta San Jose International,3
+Hartsfield-Jackson Atlanta International,Pittsburgh International,2
+Lambert-St. Louis International,Minneapolis-St Paul International,1
+Hartsfield-Jackson Atlanta International,Cleveland-Hopkins International,2
+Minneapolis-St Paul International,LaGuardia,2
+Orlando International,Minneapolis-St Paul International,2
+Cincinnati/Northern Kentucky International,Southwest Florida International,2
+Minneapolis-St Paul International,San Francisco International,1
+Nashville International,Hartsfield-Jackson Atlanta International,1
+Hartsfield-Jackson Atlanta International,Dallas/Fort Worth International,2
+Salt Lake City International,Ted Stevens Anchorage International,2
+Minneapolis-St Paul International,Fort Lauderdale-Hollywood International,2
+Memphis International,Detroit Metro Wayne County,5
+Los Angeles International,Louis Armstrong New Orleans International,4
+Detroit Metro Wayne County,Salt Lake City International,1
+Cincinnati/Northern Kentucky International,McCarran International,2
+Hartsfield-Jackson Atlanta International,Raleigh-Durham International,2
+Palm Beach International,LaGuardia,1
+Ronald Reagan Washington National,Salt Lake City International,1
+Honolulu International,Los Angeles International,2
+Minneapolis-St Paul International,Sacramento International,3
+Hartsfield-Jackson Atlanta International,Miami International,1
+Salt Lake City International,San Francisco International,2
+Hartsfield-Jackson Atlanta International,General Mitchell International,2
+Detroit Metro Wayne County,Louis Armstrong New Orleans International,3
+John Wayne Airport-Orange County,Minneapolis-St Paul International,7
+John F. Kennedy International,Tampa International,2
+LaGuardia,Tampa International,1
+San Francisco International,Cincinnati/Northern Kentucky International,3
+Denver International,Minneapolis-St Paul International,3
+Hartsfield-Jackson Atlanta International,Richmond International,3
+John F. Kennedy International,Orlando International,1
+McCarran International,Hartsfield-Jackson Atlanta International,1
+John F. Kennedy International,Fort Lauderdale-Hollywood International,2
+John F. Kennedy International,Detroit Metro Wayne County,3
+Detroit Metro Wayne County,Denver International,8
+Detroit Metro Wayne County,Logan International,1
+John F. Kennedy International,McCarran International,2
+Seattle/Tacoma International,John F. Kennedy International,2
+John F. Kennedy International,Phoenix Sky Harbor International,1
+San Diego International,John F. Kennedy International,1
+Fort Lauderdale-Hollywood International,Detroit Metro Wayne County,1
+John F. Kennedy International,Miami International,3
+John F. Kennedy International,Luis Munoz Marin International,9
+Orlando International,Salt Lake City International,5
+Hartsfield-Jackson Atlanta International,Sacramento International,2
+Logan International,Minneapolis-St Paul International,2
+Luis Munoz Marin International,Hartsfield-Jackson Atlanta International,2
+Minneapolis-St Paul International,Memphis International,1
+McCarran International,Salt Lake City International,2
+Louis Armstrong New Orleans International,LaGuardia,3
+McCarran International,Memphis International,5
+Hartsfield-Jackson Atlanta International,Bradley International,2
+LaGuardia,Miami International,2
+Portland International,Hartsfield-Jackson Atlanta International,1
+Charlotte Douglas International,Salt Lake City International,2
+Baltimore/Washington International Thurgood Marshall,Minneapolis-St Paul International,1
+John F. Kennedy International,Denver International,2
+Chicago Midway International,Hartsfield-Jackson Atlanta International,2
+San Diego International,Minneapolis-St Paul International,1
+Detroit Metro Wayne County,Nashville International,3
+Detroit Metro Wayne County,Tampa International,1
+Indianapolis International,Detroit Metro Wayne County,1
+John F. Kennedy International,Austin - Bergstrom International,1
+Salt Lake City International,Norman Y. Mineta San Jose International,4
+Detroit Metro Wayne County,Seattle/Tacoma International,2
+Detroit Metro Wayne County,San Francisco International,1
+Hartsfield-Jackson Atlanta International,Theodore Francis Green State,3
+Orlando International,Logan International,3
+Minneapolis-St Paul International,Eppley Airfield,2
+Logan International,Cincinnati/Northern Kentucky International,2
+Kansas City International,Los Angeles International,2
+Detroit Metro Wayne County,San Diego International,1
+Southwest Florida International,LaGuardia,1
+Honolulu International,Hartsfield-Jackson Atlanta International,2
+Memphis International,Tampa International,2
+Hartsfield-Jackson Atlanta International,Eppley Airfield,1
+Phoenix Sky Harbor International,Hartsfield-Jackson Atlanta International,1
+Los Angeles International,Raleigh-Durham International,3
+Detroit Metro Wayne County,Southwest Florida International,3
+Indianapolis International,Los Angeles International,2
+Los Angeles International,Orlando International,2
+Minneapolis-St Paul International,Chicago O'Hare International,2
+Fort Lauderdale-Hollywood International,Cincinnati/Northern Kentucky International,2
+Baltimore/Washington International Thurgood Marshall,Salt Lake City International,1
+Minneapolis-St Paul International,Miami International,3
+Minneapolis-St Paul International,Dallas/Fort Worth International,3
+LaGuardia,Pittsburgh International,2
+Salt Lake City International,Memphis International,4
+Minneapolis-St Paul International,Ronald Reagan Washington National,1
+Detroit Metro Wayne County,Chicago O'Hare International,1
+John Wayne Airport-Orange County,Hartsfield-Jackson Atlanta International,2
+Detroit Metro Wayne County,Palm Beach International,2
+Baltimore/Washington International Thurgood Marshall,Detroit Metro Wayne County,1
+Cincinnati/Northern Kentucky International,Phoenix Sky Harbor International,2
+Salt Lake City International,Reno/Tahoe International,3
+Cincinnati/Northern Kentucky International,Seattle/Tacoma International,2
+Salt Lake City International,Logan International,2
+Memphis International,Los Angeles International,2
+Cincinnati/Northern Kentucky International,Tampa International,2
+Dallas/Fort Worth International,Salt Lake City International,2
+Salt Lake City International,Phoenix Sky Harbor International,3
+Lambert-St. Louis International,Salt Lake City International,2
+Hartsfield-Jackson Atlanta International,Washington Dulles International,2
+Minneapolis-St Paul International,Albuquerque International Sunport,2
+Kahului Airport,Los Angeles International,3
+Newark Liberty International,Minneapolis-St Paul International,2
+Indianapolis International,Minneapolis-St Paul International,1
+Detroit Metro Wayne County,Portland International,2
+Memphis International,Phoenix Sky Harbor International,2
+Minneapolis-St Paul International,Austin - Bergstrom International,2
+John F. Kennedy International,Louis Armstrong New Orleans International,2
+Minneapolis-St Paul International,Tucson International,2
+Ted Stevens Anchorage International,Minneapolis-St Paul International,3
+Minneapolis-St Paul International,Charlotte Douglas International,2
+Honolulu International,Salt Lake City International,2
+Hartsfield-Jackson Atlanta International,William P Hobby,2
+Salt Lake City International,Metropolitan Oakland International,3
+Detroit Metro Wayne County,Austin - Bergstrom International,2
+Salt Lake City International,Newark Liberty International,2
+Minneapolis-St Paul International,Philadelphia International,2
+Salt Lake City International,Indianapolis International,2
+Minneapolis-St Paul International,Pittsburgh International,2
+Hartsfield-Jackson Atlanta International,Will Rogers World,2
+Memphis International,LaGuardia,2
+San Antonio International,Minneapolis-St Paul International,2
+Los Angeles International,McCarran International,3
+San Francisco International,Honolulu International,2
+Miami International,Los Angeles International,1
+Bradley International,Minneapolis-St Paul International,2
+Bradley International,Detroit Metro Wayne County,1
+John F. Kennedy International,San Antonio International,2
+Detroit Metro Wayne County,Philadelphia International,1
+Louis Armstrong New Orleans International,Salt Lake City International,2
+Detroit Metro Wayne County,Kansas City International,2
+Hartsfield-Jackson Atlanta International,Norman Y. Mineta San Jose International,2
+Detroit Metro Wayne County,Jacksonville International,2
+Los Angeles International,Port Columbus International,2
+Salt Lake City International,Long Beach Airport,1
+Dallas/Fort Worth International,Ronald Reagan Washington National,1
+San Diego International,Dallas/Fort Worth International,64
+Dallas/Fort Worth International,San Antonio International,1
+Dallas/Fort Worth International,Eppley Airfield,1
+Louis Armstrong New Orleans International,Dallas/Fort Worth International,30
+Dallas/Fort Worth International,Will Rogers World,54
+Nashville International,Dallas/Fort Worth International,1
+Miami International,Newark Liberty International,62
+Port Columbus International,Dallas/Fort Worth International,1
+San Francisco International,Dallas/Fort Worth International,1
+Dallas/Fort Worth International,McCarran International,1
+Sacramento International,Dallas/Fort Worth International,62
+Logan International,Dallas/Fort Worth International,4
+Orlando International,Dallas/Fort Worth International,1
+Dallas/Fort Worth International,Washington Dulles International,4
+Miami International,Chicago O'Hare International,1
+Chicago O'Hare International,Los Angeles International,80
+Austin - Bergstrom International,Dallas/Fort Worth International,2
+Chicago O'Hare International,Philadelphia International,1
+Dallas/Fort Worth International,General Mitchell International,1
+William P Hobby,Dallas/Fort Worth International,9
+Nashville International,George Bush Intercontinental/Houston,15
+Cleveland-Hopkins International,Will Rogers World,23
+Charlotte Douglas International,George Bush Intercontinental/Houston,1
+Logan International,Cleveland-Hopkins International,10
+Cleveland-Hopkins International,Louisville International-Standiford Field,11
+Port Columbus International,George Bush Intercontinental/Houston,1
+Newark Liberty International,Eppley Airfield,5
+Washington Dulles International,George Bush Intercontinental/Houston,4
+Salt Lake City International,San Antonio International,1
+Cincinnati/Northern Kentucky International,George Bush Intercontinental/Houston,8
+George Bush Intercontinental/Houston,Louisville International-Standiford Field,2
+Louisville International-Standiford Field,Chicago O'Hare International,1
+Eppley Airfield,George Bush Intercontinental/Houston,2
+Raleigh-Durham International,George Bush Intercontinental/Houston,1
+George Bush Intercontinental/Houston,Austin - Bergstrom International,1
+George Bush Intercontinental/Houston,San Antonio International,23
+General Mitchell International,Cleveland-Hopkins International,5
+Lambert-St. Louis International,Cleveland-Hopkins International,2
+Indianapolis International,George Bush Intercontinental/Houston,1
+Memphis International,George Bush Intercontinental/Houston,6
+Will Rogers World,George Bush Intercontinental/Houston,1
+Buffalo Niagara International,Newark Liberty International,1
+George Bush Intercontinental/Houston,Southwest Florida International,9
+Baltimore/Washington International Thurgood Marshall,Cleveland-Hopkins International,5
+Dallas Love Field,George Bush Intercontinental/Houston,53
+Richmond International,Cleveland-Hopkins International,4
+Buffalo Niagara International,Cleveland-Hopkins International,6
+Cleveland-Hopkins International,Nashville International,1
+Raleigh-Durham International,Washington Dulles International,1
+George Bush Intercontinental/Houston,Norfolk International,3
+Raleigh-Durham International,Newark Liberty International,2
+Pittsburgh International,George Bush Intercontinental/Houston,1
+Charlotte Douglas International,Newark Liberty International,32
+George Bush Intercontinental/Houston,Cleveland-Hopkins International,4
+Louisville International-Standiford Field,Newark Liberty International,45
+Louis Armstrong New Orleans International,George Bush Intercontinental/Houston,1
+Palm Beach International,George Bush Intercontinental/Houston,1
+Kansas City International,Cleveland-Hopkins International,2
+Cleveland-Hopkins International,Washington Dulles International,3
+Cleveland-Hopkins International,Raleigh-Durham International,1
+Bradley International,Newark Liberty International,11
+Newark Liberty International,Nashville International,1
+Cleveland-Hopkins International,Chicago O'Hare International,2
+Newark Liberty International,Jacksonville International,8
+Port Columbus International,Newark Liberty International,36
+Newark Liberty International,Norfolk International,1
+Newark Liberty International,Pittsburgh International,21
+Newark Liberty International,Washington Dulles International,1
+Raleigh-Durham International,Chicago O'Hare International,31
+Cleveland-Hopkins International,Palm Beach International,1
+Newark Liberty International,Richmond International,1
+Ronald Reagan Washington National,Cleveland-Hopkins International,8
+Newark Liberty International,Chicago O'Hare International,1
+George Bush Intercontinental/Houston,Salt Lake City International,1
+Minneapolis-St Paul International,George Bush Intercontinental/Houston,2
+Kansas City International,George Bush Intercontinental/Houston,1
+Chicago O'Hare International,Kansas City International,1
+Memphis International,Newark Liberty International,8
+Newark Liberty International,General Mitchell International,27
+Newark Liberty International,Lambert-St. Louis International,4
+Cleveland-Hopkins International,LaGuardia,7
+Indianapolis International,Newark Liberty International,3
+Cleveland-Hopkins International,Newark Liberty International,4
+Cincinnati/Northern Kentucky International,Newark Liberty International,1
+Newark Liberty International,Logan International,1
+Cleveland-Hopkins International,Bradley International,1
+Baltimore/Washington International Thurgood Marshall,Newark Liberty International,8
+Cleveland-Hopkins International,Southwest Florida International,6
+Indianapolis International,Denver International,1
+Chicago O'Hare International,Indianapolis International,22
+Cleveland-Hopkins International,Indianapolis International,37
+George Bush Intercontinental/Houston,Jacksonville International,30
+Cleveland-Hopkins International,Orlando International,4
+George Bush Intercontinental/Houston,Albuquerque International Sunport,8
+George Bush Intercontinental/Houston,Lambert-St. Louis International,13
+Lambert-St. Louis International,Chicago O'Hare International,4
+Newark Liberty International,Louis Armstrong New Orleans International,8
+Dallas/Fort Worth International,Cleveland-Hopkins International,1
+Cleveland-Hopkins International,Minneapolis-St Paul International,30
+Salt Lake City International,Denver International,1
+Cincinnati/Northern Kentucky International,Chicago O'Hare International,1
+Eppley Airfield,Chicago O'Hare International,1
+Dallas/Fort Worth International,George Bush Intercontinental/Houston,49
+Cleveland-Hopkins International,Charlotte Douglas International,7
+George Bush Intercontinental/Houston,General Mitchell International,25
+Buffalo Niagara International,Chicago O'Hare International,25
+Nashville International,Denver International,1
+Newark Liberty International,Kansas City International,1
+Newark Liberty International,Ronald Reagan Washington National,1
+Memphis International,Chicago O'Hare International,27
+Washington Dulles International,Detroit Metro Wayne County,44
+George Bush Intercontinental/Houston,Tucson International,2
+Chicago O'Hare International,Nashville International,1
+Logan International,Baltimore/Washington International Thurgood Marshall,6
+Logan International,Charlotte Douglas International,3
+Logan International,Ronald Reagan Washington National,11
+Logan International,Denver International,3
+Logan International,Fort Lauderdale-Hollywood International,9
+Logan International,Washington Dulles International,4
+Logan International,Jacksonville International,2
+Logan International,McCarran International,1
+Logan International,Los Angeles International,1
+Logan International,Long Beach Airport,1
+Logan International,Louis Armstrong New Orleans International,1
+Logan International,Chicago O'Hare International,1
+Logan International,Palm Beach International,1
+Logan International,Portland International,3
+Logan International,Phoenix Sky Harbor International,1
+Logan International,Pittsburgh International,1
+Logan International,Raleigh-Durham International,1
+Logan International,Richmond International,1
+Logan International,Southwest Florida International,1
+Logan International,San Diego International,1
+Logan International,Seattle/Tacoma International,1
+Logan International,San Francisco International,1
+Logan International,Norman Y. Mineta San Jose International,1
+Logan International,Luis Munoz Marin International,1
+Logan International,Tampa International,1
+Buffalo Niagara International,Logan International,1
+Buffalo Niagara International,Fort Lauderdale-Hollywood International,2
+Buffalo Niagara International,John F. Kennedy International,8
+Buffalo Niagara International,Orlando International,1
+Buffalo Niagara International,Southwest Florida International,1
+Bob Hope,John F. Kennedy International,2
+Charlotte Douglas International,John F. Kennedy International,3
+Ronald Reagan Washington National,Fort Lauderdale-Hollywood International,4
+Ronald Reagan Washington National,Orlando International,1
+Ronald Reagan Washington National,Luis Munoz Marin International,1
+Ronald Reagan Washington National,Tampa International,1
+Newark Liberty International,Fort Lauderdale-Hollywood International,6
+Newark Liberty International,Orlando International,1
+Newark Liberty International,Palm Beach International,1
+Newark Liberty International,Southwest Florida International,1
+Newark Liberty International,Luis Munoz Marin International,1
+Newark Liberty International,Tampa International,1
+Fort Lauderdale-Hollywood International,Austin - Bergstrom International,1
+Fort Lauderdale-Hollywood International,Bradley International,1
+Fort Lauderdale-Hollywood International,Los Angeles International,1
+Fort Lauderdale-Hollywood International,Theodore Francis Green State,1
+Fort Lauderdale-Hollywood International,Raleigh-Durham International,1
+Fort Lauderdale-Hollywood International,Richmond International,1
+Fort Lauderdale-Hollywood International,San Francisco International,1
+Fort Lauderdale-Hollywood International,Luis Munoz Marin International,1
+William P Hobby,John F. Kennedy International,3
+Washington Dulles International,John F. Kennedy International,3
+Washington Dulles International,Long Beach Airport,1
+Jacksonville International,John F. Kennedy International,4
+Jacksonville International,Luis Munoz Marin International,1
+John F. Kennedy International,Albuquerque International Sunport,1
+John F. Kennedy International,Long Beach Airport,1
+John F. Kennedy International,Metropolitan Oakland International,1
+John F. Kennedy International,Chicago O'Hare International,1
+John F. Kennedy International,Palm Beach International,1
+John F. Kennedy International,Raleigh-Durham International,1
+John F. Kennedy International,Southwest Florida International,10
+John F. Kennedy International,Norman Y. Mineta San Jose International,3
+John F. Kennedy International,Sacramento International,3
+McCarran International,Long Beach Airport,5
+Long Beach Airport,Austin - Bergstrom International,2
+Long Beach Airport,Metropolitan Oakland International,8
+Long Beach Airport,Portland International,5
+Long Beach Airport,Seattle/Tacoma International,5
+Long Beach Airport,San Francisco International,7
+Long Beach Airport,Sacramento International,5
+Orlando International,Austin - Bergstrom International,2
+Orlando International,Bradley International,3
+Orlando International,Theodore Francis Green State,5
+Orlando International,Richmond International,3
+Orlando International,Luis Munoz Marin International,7
+Palm Beach International,Bradley International,2
+Palm Beach International,Luis Munoz Marin International,2
+San Francisco International,Austin - Bergstrom International,2
+Luis Munoz Marin International,Bradley International,2
+Luis Munoz Marin International,Tampa International,4
+Austin - Bergstrom International,Logan International,2
+Port Columbus International,Chicago O'Hare International,1
+Newark Liberty International,Will Rogers World,14
+Philadelphia International,Newark Liberty International,2
+Charlotte Douglas International,Washington Dulles International,7
+Denver International,Austin - Bergstrom International,2
+Phoenix Sky Harbor International,George Bush Intercontinental/Houston,1
+Chicago O'Hare International,Charlotte Douglas International,1
+Orlando International,George Bush Intercontinental/Houston,1
+Theodore Francis Green State,Newark Liberty International,1
+Denver International,George Bush Intercontinental/Houston,2
+Buffalo Niagara International,Washington Dulles International,14
+Cleveland-Hopkins International,Miami International,1
+Lambert-St. Louis International,Washington Dulles International,17
+George Bush Intercontinental/Houston,Richmond International,27
+Philadelphia International,Cleveland-Hopkins International,1
+Denver International,Tucson International,22
+Denver International,Louisville International-Standiford Field,4
+Denver International,Kansas City International,2
+Pittsburgh International,Chicago O'Hare International,3
+Washington Dulles International,Nashville International,5
+Cleveland-Hopkins International,Tampa International,16
+Cleveland-Hopkins International,Pittsburgh International,1
+Washington Dulles International,Indianapolis International,1
+Washington Dulles International,Louis Armstrong New Orleans International,1
+Louis Armstrong New Orleans International,Chicago O'Hare International,4
+Cleveland-Hopkins International,Louis Armstrong New Orleans International,5
+Washington Dulles International,Port Columbus International,5
+Washington Dulles International,Louisville International-Standiford Field,24
+Jacksonville International,Washington Dulles International,20
+Chicago O'Hare International,Jacksonville International,18
+Bradley International,Chicago O'Hare International,2
+Detroit Metro Wayne County,Norfolk International,28
+Memphis International,Raleigh-Durham International,3
+Raleigh-Durham International,Orlando International,2
+Detroit Metro Wayne County,San Antonio International,2
+Cincinnati/Northern Kentucky International,Detroit Metro Wayne County,12
+Louis Armstrong New Orleans International,Memphis International,1
+Eppley Airfield,Detroit Metro Wayne County,1
+Austin - Bergstrom International,Memphis International,1
+Minneapolis-St Paul International,Raleigh-Durham International,9
+Detroit Metro Wayne County,Will Rogers World,1
+Detroit Metro Wayne County,Pittsburgh International,1
+Bradley International,Raleigh-Durham International,7
+Memphis International,Charlotte Douglas International,2
+Minneapolis-St Paul International,Louis Armstrong New Orleans International,2
+Cincinnati/Northern Kentucky International,Memphis International,4
+LaGuardia,Raleigh-Durham International,2
+Raleigh-Durham International,Tampa International,1
+LaGuardia,Lambert-St. Louis International,1
+Richmond International,LaGuardia,1
+Jacksonville International,LaGuardia,6
+Charlotte Douglas International,LaGuardia,5
+Ontario International,Salt Lake City International,2
+Ronald Reagan Washington National,Cincinnati/Northern Kentucky International,1
+Hartsfield-Jackson Atlanta International,Dallas Love Field,30
+LaGuardia,Cincinnati/Northern Kentucky International,3
+Baltimore/Washington International Thurgood Marshall,Raleigh-Durham International,72
+Port Columbus International,Raleigh-Durham International,6
+Dallas/Fort Worth International,Cincinnati/Northern Kentucky International,1
+Minneapolis-St Paul International,Theodore Francis Green State,4
+LaGuardia,Kansas City International,1
+Pittsburgh International,Cincinnati/Northern Kentucky International,1
+Buffalo Niagara International,Detroit Metro Wayne County,21
+Memphis International,Kansas City International,1
+Dallas/Fort Worth International,LaGuardia,29
+Norfolk International,LaGuardia,1
+Nashville International,LaGuardia,6
+Chicago Midway International,Minneapolis-St Paul International,1
+Cincinnati/Northern Kentucky International,Minneapolis-St Paul International,1
+Cincinnati/Northern Kentucky International,Louis Armstrong New Orleans International,27
+Philadelphia International,Memphis International,1
+Washington Dulles International,Minneapolis-St Paul International,18
+Raleigh-Durham International,Cincinnati/Northern Kentucky International,7
+Memphis International,San Antonio International,1
+Memphis International,Dallas/Fort Worth International,1
+Memphis International,Lambert-St. Louis International,27
+Nashville International,Minneapolis-St Paul International,1
+Memphis International,Eppley Airfield,1
+Memphis International,General Mitchell International,7
+Indianapolis International,Memphis International,7
+Cincinnati/Northern Kentucky International,Philadelphia International,1
+Cincinnati/Northern Kentucky International,Bradley International,1
+Charlotte Douglas International,Cincinnati/Northern Kentucky International,32
+Minneapolis-St Paul International,Richmond International,22
+Cincinnati/Northern Kentucky International,General Mitchell International,7
+Buffalo Niagara International,LaGuardia,3
+Washington Dulles International,Norfolk International,7
+LaGuardia,Washington Dulles International,2
+Norfolk International,Chicago O'Hare International,1
+Chicago O'Hare International,Will Rogers World,5
+Bradley International,Washington Dulles International,1
+Chicago O'Hare International,Richmond International,6
+Washington Dulles International,Richmond International,16
+Dallas/Fort Worth International,Denver International,1
+Memphis International,Denver International,9
+Washington Dulles International,Pittsburgh International,1
+Denver International,Port Columbus International,5
+Eppley Airfield,Denver International,2
+Denver International,Albuquerque International Sunport,2
+Phoenix Sky Harbor International,Denver International,1
+Kansas City International,Washington Dulles International,21
+Denver International,Cincinnati/Northern Kentucky International,1
+Louis Armstrong New Orleans International,Denver International,1
+Washington Dulles International,Cincinnati/Northern Kentucky International,34
+Pittsburgh International,Denver International,24
+Will Rogers World,Denver International,1
+Denver International,Lambert-St. Louis International,2
+Theodore Francis Green State,Washington Dulles International,3
+Washington Dulles International,Will Rogers World,1
+Denver International,John Wayne Airport-Orange County,1
+Denver International,San Francisco International,1
+Tampa International,Denver International,2
+Denver International,McCarran International,2
+Denver International,Seattle/Tacoma International,2
+Denver International,San Diego International,2
+Denver International,General Mitchell International,1
+Orlando International,Denver International,1
+Denver International,Southwest Florida International,2
+Ronald Reagan Washington National,Denver International,1
+Denver International,Portland International,2
+Denver International,Los Angeles International,2
+Denver International,Fort Lauderdale-Hollywood International,2
+Denver International,Cleveland-Hopkins International,3
+Denver International,Chicago Midway International,1
+Orlando International,Eppley Airfield,2
+Orlando International,General Mitchell International,1
+Southwest Florida International,Port Columbus International,1
+Southwest Florida International,Ronald Reagan Washington National,3
+Orlando International,Louis Armstrong New Orleans International,1
+Southwest Florida International,Indianapolis International,1
+Orlando International,Philadelphia International,1
+Southwest Florida International,General Mitchell International,1
+General Mitchell International,Ronald Reagan Washington National,1
+Tampa International,Baltimore/Washington International Thurgood Marshall,2
+Chicago Midway International,Southwest Florida International,3
+Tampa International,Indianapolis International,1
+Pittsburgh International,Southwest Florida International,3
+Orlando International,Pittsburgh International,1
+Baltimore/Washington International Thurgood Marshall,Charlotte Douglas International,2
+Tampa International,General Mitchell International,2
+Tampa International,Pittsburgh International,1
+Orlando International,Chicago Midway International,1
+Orlando International,Baltimore/Washington International Thurgood Marshall,1
+Indianapolis International,Fort Lauderdale-Hollywood International,2
+Baltimore/Washington International Thurgood Marshall,Southwest Florida International,2
+Tampa International,Philadelphia International,2
+Luis Munoz Marin International,Baltimore/Washington International Thurgood Marshall,1
+Orlando International,Indianapolis International,1
+William P Hobby,Orlando International,2
+Orlando International,Port Columbus International,2
+Baltimore/Washington International Thurgood Marshall,Fort Lauderdale-Hollywood International,1
+San Francisco International,John Wayne Airport-Orange County,2
+McCarran International,John Wayne Airport-Orange County,2
+Austin - Bergstrom International,William P Hobby,1
+Port Columbus International,Fort Lauderdale-Hollywood International,2
+Fort Lauderdale-Hollywood International,Philadelphia International,2
+Fort Lauderdale-Hollywood International,Pittsburgh International,3
+William P Hobby,San Antonio International,2
+Palm Beach International,Philadelphia International,2
+General Mitchell International,Logan International,2
+Philadelphia International,Southwest Florida International,2
+Tampa International,Chicago Midway International,2
+Fort Lauderdale-Hollywood International,Chicago Midway International,2
+Port Columbus International,Tampa International,2
+Tampa International,Buffalo Niagara International,2
+Kansas City International,Orlando International,2
+Orlando International,Lambert-St. Louis International,2
+Baltimore/Washington International Thurgood Marshall,McCarran International,2
+Metropolitan Oakland International,Kahului Airport,1
+Portland International,Honolulu International,1
+Seattle/Tacoma International,Kahului Airport,3
+Phoenix Sky Harbor International,Honolulu International,31
+Norman Y. Mineta San Jose International,Kahului Airport,2
+Metropolitan Oakland International,Honolulu International,1
+Honolulu International,John F. Kennedy International,31
+McCarran International,Honolulu International,31
+San Diego International,Honolulu International,1
+Sacramento International,Honolulu International,31
+Kahului Airport,Honolulu International,5
+Louisville International-Standiford Field,Dallas/Fort Worth International,1
+Indianapolis International,Miami International,2
+Miami International,Norfolk International,31
+Pittsburgh International,Miami International,1
+Miami International,Nashville International,30
+Jacksonville International,Miami International,60
+Charlotte Douglas International,Miami International,1
+Port Columbus International,Miami International,1
+Chicago O'Hare International,Salt Lake City International,1
+Lambert-St. Louis International,John F. Kennedy International,1
+Buffalo Niagara International,Minneapolis-St Paul International,24
+Salt Lake City International,Austin - Bergstrom International,1
+Baltimore/Washington International Thurgood Marshall,John F. Kennedy International,25
+John F. Kennedy International,Minneapolis-St Paul International,2
+Will Rogers World,Salt Lake City International,3
+Pittsburgh International,John F. Kennedy International,4
+John F. Kennedy International,Kansas City International,1
+John F. Kennedy International,Philadelphia International,1
+Memphis International,Logan International,27
+Dallas/Fort Worth International,John F. Kennedy International,1
+John F. Kennedy International,Ronald Reagan Washington National,1
+Cincinnati/Northern Kentucky International,Lambert-St. Louis International,24
+Jacksonville International,Cincinnati/Northern Kentucky International,1
+Ronald Reagan Washington National,Memphis International,1
+Cincinnati/Northern Kentucky International,John F. Kennedy International,60
+General Mitchell International,John F. Kennedy International,8
+John F. Kennedy International,Indianapolis International,31
+Detroit Metro Wayne County,Port Columbus International,8
+Minneapolis-St Paul International,Port Columbus International,1
+Theodore Francis Green State,Detroit Metro Wayne County,31
+Cincinnati/Northern Kentucky International,Kansas City International,49
+Cincinnati/Northern Kentucky International,Baltimore/Washington International Thurgood Marshall,1
+Detroit Metro Wayne County,Cleveland-Hopkins International,1
+John F. Kennedy International,Louisville International-Standiford Field,29
+Will Rogers World,Minneapolis-St Paul International,1
+Louisville International-Standiford Field,Detroit Metro Wayne County,24
+Cincinnati/Northern Kentucky International,Richmond International,27
+Chicago Midway International,Detroit Metro Wayne County,1
+Detroit Metro Wayne County,Richmond International,28
+Nashville International,John F. Kennedy International,31
+Memphis International,Will Rogers World,7
+Minneapolis-St Paul International,Louisville International-Standiford Field,27
+Norfolk International,John F. Kennedy International,61
+Port Columbus International,John F. Kennedy International,1
+Memphis International,Pittsburgh International,27
+John F. Kennedy International,Cleveland-Hopkins International,54
+Indianapolis International,Raleigh-Durham International,1
+John F. Kennedy International,Richmond International,13
+Norfolk International,Logan International,1
+Cincinnati/Northern Kentucky International,Nashville International,27
+Dallas/Fort Worth International,Honolulu International,31
+Los Angeles International,Newark Liberty International,31
+Los Angeles International,Washington Dulles International,1
+Orlando International,Chicago O'Hare International,1
+Dallas/Fort Worth International,Los Angeles International,1
+Los Angeles International,Ronald Reagan Washington National,1
+Kahului Airport,Dallas/Fort Worth International,31
+Dallas/Fort Worth International,Miami International,31
+LaGuardia,Chicago O'Hare International,47
+Dallas/Fort Worth International,Tampa International,1
+Chicago O'Hare International,Phoenix Sky Harbor International,2
+Dallas/Fort Worth International,Jacksonville International,34
+Dallas/Fort Worth International,Southwest Florida International,27
+Seattle/Tacoma International,Dallas/Fort Worth International,30
+Chicago O'Hare International,McCarran International,1
+Chicago O'Hare International,Austin - Bergstrom International,1
+Chicago O'Hare International,Tampa International,1
+Baltimore/Washington International Thurgood Marshall,Dallas/Fort Worth International,1
+Denver International,Chicago O'Hare International,1
+Dallas/Fort Worth International,John Wayne Airport-Orange County,28
+Tucson International,Chicago O'Hare International,31
+Dallas/Fort Worth International,Philadelphia International,27
+San Francisco International,Chicago O'Hare International,1
+Miami International,Logan International,31
+Austin - Bergstrom International,Los Angeles International,1
+George Bush Intercontinental/Houston,Miami International,1
+Ronald Reagan Washington National,Chicago O'Hare International,30
+Philadelphia International,Miami International,1
+Richmond International,Dallas/Fort Worth International,1
+San Francisco International,Miami International,1
+Ontario International,Dallas/Fort Worth International,1
+Lambert-St. Louis International,Dallas/Fort Worth International,21
+Dallas/Fort Worth International,Raleigh-Durham International,31
+Ronald Reagan Washington National,Miami International,29
+Dallas/Fort Worth International,Portland International,56
+Dallas/Fort Worth International,Bradley International,6
+Dallas/Fort Worth International,Norman Y. Mineta San Jose International,25
+Albuquerque International Sunport,Dallas/Fort Worth International,31
+Charlotte Douglas International,Dallas/Fort Worth International,1
+San Francisco International,Los Angeles International,1
+Fort Lauderdale-Hollywood International,Chicago O'Hare International,31
+Chicago O'Hare International,Seattle/Tacoma International,3
+Kansas City International,Dallas/Fort Worth International,1
+Miami International,Orlando International,1
+Luis Munoz Marin International,Miami International,29
+Louis Armstrong New Orleans International,Miami International,30
+San Diego International,Chicago O'Hare International,47
+Luis Munoz Marin International,Dallas/Fort Worth International,30
+Raleigh-Durham International,Miami International,1
+Dallas/Fort Worth International,Palm Beach International,31
+Lambert-St. Louis International,Los Angeles International,1
+Miami International,Seattle/Tacoma International,1
+Fort Lauderdale-Hollywood International,Dallas/Fort Worth International,1
+Lambert-St. Louis International,Miami International,31
+Indianapolis International,Dallas/Fort Worth International,1
+Southwest Florida International,Chicago O'Hare International,1
+Norfolk International,Dallas/Fort Worth International,60
+Dallas/Fort Worth International,Tucson International,116
+Chicago O'Hare International,Norman Y. Mineta San Jose International,60
+Miami International,Washington Dulles International,1
+Tampa International,Miami International,1
+Baltimore/Washington International Thurgood Marshall,Miami International,1
+Phoenix Sky Harbor International,Dallas/Fort Worth International,1
+Dallas/Fort Worth International,Newark Liberty International,1
+Chicago O'Hare International,Palm Beach International,30
+Pittsburgh International,Dallas/Fort Worth International,31
+Miami International,McCarran International,1
+John Wayne Airport-Orange County,Chicago O'Hare International,2
+Dallas/Fort Worth International,Reno/Tahoe International,61
+Miami International,Bradley International,31
+Chicago O'Hare International,Reno/Tahoe International,31
+Denver International,Miami International,1
+Phoenix Sky Harbor International,Miami International,1
+Ronald Reagan Washington National,Lambert-St. Louis International,1
+John F. Kennedy International,George Bush Intercontinental/Houston,29
+Chicago O'Hare International,Luis Munoz Marin International,31
+Dallas/Fort Worth International,Chicago O'Hare International,1
+Seattle/Tacoma International,Norman Y. Mineta San Jose International,1
+Seattle/Tacoma International,San Francisco International,1
+San Francisco International,Portland International,3
+San Diego International,Portland International,2
+Ted Stevens Anchorage International,Seattle/Tacoma International,1
+Seattle/Tacoma International,Orlando International,2
+Sacramento International,Seattle/Tacoma International,1
+Seattle/Tacoma International,Kansas City International,1
+Lambert-St. Louis International,Seattle/Tacoma International,1
+George Bush Intercontinental/Houston,Seattle/Tacoma International,1
+Seattle/Tacoma International,San Antonio International,1
+Portland International,Phoenix Sky Harbor International,2
+Seattle/Tacoma International,Phoenix Sky Harbor International,2
+Seattle/Tacoma International,McCarran International,2
+Portland International,John Wayne Airport-Orange County,1
+Bob Hope,Seattle/Tacoma International,1
+Seattle/Tacoma International,San Diego International,3
+Los Angeles International,Seattle/Tacoma International,1
+Los Angeles International,Portland International,1
+Metropolitan Oakland International,Seattle/Tacoma International,1
+Ronald Reagan Washington National,Seattle/Tacoma International,1
+Kahului Airport,Sacramento International,2
+Portland International,Kahului Airport,2
+Austin - Bergstrom International,Seattle/Tacoma International,2
+Tucson International,Seattle/Tacoma International,1
+Portland International,McCarran International,3
+Ontario International,Seattle/Tacoma International,1
+Seattle/Tacoma International,John Wayne Airport-Orange County,1
+Portland International,Ted Stevens Anchorage International,2
+Fort Lauderdale-Hollywood International,Seattle/Tacoma International,1
+Honolulu International,Norman Y. Mineta San Jose International,2
+San Diego International,Kahului Airport,1
+San Diego International,Orlando International,1
+Newark Liberty International,Seattle/Tacoma International,1
+Ronald Reagan Washington National,Portland International,3
+Portland International,Norman Y. Mineta San Jose International,1
+Seattle/Tacoma International,Philadelphia International,2
+Ted Stevens Anchorage International,Chicago O'Hare International,1
+Honolulu International,Ted Stevens Anchorage International,1
+Portland International,Chicago O'Hare International,1
+Kahului Airport,Ted Stevens Anchorage International,2
+Ted Stevens Anchorage International,Los Angeles International,1
+LaGuardia,Louisville International-Standiford Field,1
+Memphis International,Fort Lauderdale-Hollywood International,2
